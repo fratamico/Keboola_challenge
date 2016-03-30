@@ -10,3 +10,7 @@ The files are:
 The files that are assumed to be in the directory are:
 - client_secrets.json - This is needed for the Google oauth2 request to Google Drive
 - beer csv.csv and beer spreadsheet.csv - These two files contain all the beer recommendations.
+
+
+
+Link to results presentation: https://docs.google.com/presentation/d/1c6-wW5e37TyJLh77xww_VjfroeNn3iIb1BqNAGT3_Lc/edit?usp=sharing
